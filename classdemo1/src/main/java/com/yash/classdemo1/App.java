@@ -20,6 +20,9 @@ public class App
 		lED.getDetails();
 		lED = new LED(1001, "LED",  25000, 43 , "No");
 		lED.getDetails();
+		
+		EarPhone earPhone= new EarPhone(201, "Samsung EarPhone", 1000, 2, "wirelss");
+		earPhone.getDetails();
 
 	}
 }

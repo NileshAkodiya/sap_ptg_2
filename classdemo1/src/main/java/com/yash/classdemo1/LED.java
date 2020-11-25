@@ -14,10 +14,10 @@ public class LED extends Product {
 	void getDetails() {
 		System.out.print("Product Name: "+name);
 		System.out.print(", "+name +" Id: "+pId);
-		System.out.print(", "+name +"Price: "+price);
-		System.out.print(", "+name +"Quantity: "+qty);
-		System.out.print(", "+name +"size: "+size+" inches");
-		System.out.println(", "+name +"isSmart: "+isSmart);
+		System.out.print(", "+name +" Price: "+price);
+		System.out.print(", "+name +" Quantity: "+qty);
+		System.out.print(", "+name +" size: "+size+" inches");
+		System.out.println(", "+name +" isSmart: "+isSmart);
 		System.out.println();
 		
 	}
